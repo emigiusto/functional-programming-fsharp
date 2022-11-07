@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfK3oRQZtWoCJ7ljI+MXqma/tIwqvYH2kUBHMqrFEhx0WKtbUUmdC9qvBzJAljfImLFnhzPdX9OE9asZwazRJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EmilianoGiusto\\Documents\\Github\\functional\\exercise1\\exercise1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EmilianoGiusto\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
